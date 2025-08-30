@@ -1,0 +1,51 @@
+Current Electricity - Class 12 (Basic Notes)
+
+Electric Current
+
+-   Flow of electric charge per unit time.
+-   Formula: I = Q / t
+-   Unit: Ampere (A).
+
+Ohm’s Law
+
+-   V = IR
+-   Resistance (R) opposes current flow.
+-   Linear relation between current and voltage.
+
+Resistance
+
+-   Property of a conductor to resist current.
+-   Formula: R = ρ (L / A)
+    -   ρ = resistivity
+    -   L = length of conductor
+    -   A = cross-sectional area
+
+Resistivity
+
+-   Material property.
+-   Unit: Ωm.
+-   Independent of dimensions.
+
+Combination of Resistors
+
+-   Series: R_eq = R1 + R2 + R3 …
+-   Parallel: 1/R_eq = 1/R1 + 1/R2 + 1/R3 …
+
+Electric Power
+
+-   P = VI = I^2R = V^2 / R
+-   Unit: Watt (W).
+
+Cells and EMF
+
+-   EMF: Potential difference when no current flows.
+-   Internal resistance reduces terminal voltage.
+
+Kirchhoff’s Laws
+
+1.  Junction Rule: ΣI(in) = ΣI(out)
+2.  Loop Rule: Σ potential difference in a closed loop = 0
+
+Applications
+
+-   Used in circuits, measuring instruments, power transmission, etc.

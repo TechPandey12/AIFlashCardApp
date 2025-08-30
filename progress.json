@@ -1,0 +1,30 @@
+{
+    "quizzes_taken": 6,
+    "correct": 2,
+    "wrong": 4,
+    "mistakes": [
+        {
+            "question": "In Kirchhoff\u2019s Laws, Junction Rule",
+            "answer": "SI(in) = SI(out) 2. Loop Rule: S potential difference in a closed loop = 0 Applications - Used in circuits, measuring instruments, power transmission, etc."
+        },
+        {
+            "question": "What is the name of the study Notes of the solar system?",
+            "answer": "N/A"
+        },
+        {
+            "question": "Current Electricity - Class 12 (Basic Notes) Electric Current - Flow of electric charge per unit time. - Formula",
+            "answer": "I = Q / t - Unit: Ampere (A) -  = resistivity - L = length of conductor - A = cross-sectional area Resistivity - Material property."
+        },
+        {
+            "question": "sion, etc.",
+            "answer": "N/A"
+        }
+    ],
+    "quiz_history": [
+        {
+            "score": 1,
+            "total": 3,
+            "percent": 33.33
+        }
+    ]
+}
