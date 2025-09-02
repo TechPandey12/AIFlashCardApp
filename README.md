@@ -57,13 +57,19 @@ streamlit run study_app.py
 Then open the provided Local URL (e.g., http://localhost:8501) in your browser.
 
 📸 Demo
-<img width="1916" height="878" alt="image" src="https://github.com/user-attachments/assets/cfc0be76-093d-4b12-8672-9116a8a0b804" /> 
-<img width="1908" height="887" alt="image" src="https://github.com/user-attachments/assets/dc192f76-42b3-4be9-9989-888f3987dd6a" />
+<img width="1916" height="878" alt="Screenshot 2025-08-30 211849" src="https://github.com/user-attachments/assets/9f7a75ef-e86b-483a-a56d-dea166fb6467" />
 
-<img width="1914" height="876" alt="image" src="https://github.com/user-attachments/assets/40574598-75ae-473f-8237-5f796c012188" /> 
-<img width="1905" height="873" alt="image" src="https://github.com/user-attachments/assets/de3e2a0f-dbad-43cb-ae06-2f670e250265" /> 
-<img width="1903" height="868" alt="image" src="https://github.com/user-attachments/assets/9f62c0e2-6e15-46f4-a535-1c923c961a00" /> 
-<img width="1878" height="889" alt="image" src="https://github.com/user-attachments/assets/43523ef3-2f9f-4bb1-8429-090e1356ad45" />
+<img width="1913" height="878" alt="Screenshot 2025-08-30 221002" src="https://github.com/user-attachments/assets/c12c971c-8126-42e1-9839-7fcff3fca71f" />
+
+
+<img width="1914" height="876" alt="Screenshot 2025-08-30 221019" src="https://github.com/user-attachments/assets/824aa129-fc02-4175-a2d8-0f3e871422a6" />
+
+<img width="1905" height="873" alt="Screenshot 2025-08-30 221151" src="https://github.com/user-attachments/assets/afc09ec2-777a-4311-96aa-4aa627a99078" />
+
+<img width="1903" height="868" alt="Screenshot 2025-08-30 221221" src="https://github.com/user-attachments/assets/72f9a66d-104d-4445-8daa-0fc6afa581a4" />
+
+<img width="1878" height="889" alt="Screenshot 2025-08-30 221314" src="https://github.com/user-attachments/assets/d604339d-1f6b-491a-8f75-70aaa3d30286" />
+
 
 
 
